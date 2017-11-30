@@ -1,0 +1,27 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+table {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 10px;
+}
+
+tr, td {
+  margin: 0;
+  padding: 0;
+}
+
+.cell {
+  border: 1px solid #999;
+  height: 35px;
+  width: 35px;
+  padding: 0;
+  margin: 0;
+}
+
+  .cell:focus {
+    outline: none;
+  }
